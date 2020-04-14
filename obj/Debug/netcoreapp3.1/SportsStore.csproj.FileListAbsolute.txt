@@ -72,3 +72,5 @@ D:\Embry-Riddle\ASP.NET\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore
 D:\Embry-Riddle\ASP.NET\SportsStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
 D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Embry-Riddle\ASP.NET\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Embry-Riddle\ASP.NET\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll

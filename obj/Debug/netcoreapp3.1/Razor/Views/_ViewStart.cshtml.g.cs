@@ -19,8 +19,15 @@ using SportsStore.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "D:\Embry-Riddle\ASP.NET\SportsStore\Views\_ViewImports.cshtml"
+using SportsStore.Models.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a43bb5fe3ba4aa6c9b07b5aaa03c36a7e2ac1460", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c0226bdd9840553c5bf75545a429f3e57ec23e16", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
