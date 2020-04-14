@@ -9,7 +9,6 @@ D:\Embry-Riddle\ASP.NET\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
 D:\Embry-Riddle\ASP.NET\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
 D:\Embry-Riddle\ASP.NET\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
 D:\Embry-Riddle\ASP.NET\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
-D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
 D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
 D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
 D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
@@ -74,3 +73,5 @@ D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.C
 D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
 D:\Embry-Riddle\ASP.NET\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 D:\Embry-Riddle\ASP.NET\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Embry-Riddle\ASP.NET\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
