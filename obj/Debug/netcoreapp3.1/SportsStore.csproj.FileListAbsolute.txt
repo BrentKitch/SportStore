@@ -149,3 +149,4 @@ D:\Embry-Riddle\ASP.NET\SportsStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.Co
 D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
 D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
 D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+D:\Embry-Riddle\ASP.NET\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
